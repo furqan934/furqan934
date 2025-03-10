@@ -41,20 +41,14 @@ I have also experience in **C++,java,DSA(in C++) and also python** .
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
   <img width="8" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  <img width="8" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/>
-  <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   <img width="8" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
    <img width="8" />
-   <img src="https://upload.wikimedia.org/wikipedia/java/0/22/Java_logo_and_wordmark.svg" alt="Java" width="40" height="40"/>
-  <img width="8" />
-   <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Data_structures.svg" alt="DSA" width="40" height="40"/>
-   <img width="8" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Java_logo_and_wordmark.svg" alt="Java" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3b/Data_structures.svg" alt="DSA" width="40" height="40"/>
   
 
 
