@@ -47,7 +47,7 @@ I have also experience in **C++,java,DSA(in C++) and also python** .
   <img width="8" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
    <img width="8" />
-  <img src="F:\persnal-document\corsera-certificates\java.png" alt="Java" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" width="40" height="40"/>
    <img width="8" />
   <img src="F:\persnal-document\corsera-certificates\DSA.pdf" alt="DSA" width="40" height="40"/>
    <img width="8" />
