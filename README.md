@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 
-Hi, I’m **Muhammad Furqan**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript Vue.js**, and **React.js**. Currently, I’m expanding my backend knowledge with **php , Laravel**, and **MySQL**, working towards becoming a full-stack developer.
+Hi, I’m **Muhammad Furqan**, a third-semester Computer Science student pursuing my Bachelor's degree at **UET Peshawar**, with a focus on **Full-Stack Web Development**. Over the past year, I have developed skills in **HTML5, CSS3, Bootstrap 5, Tailwind CSS, JavaScript Vue.js**, and **React.js**. Currently, I’m expanding my backend knowledge with **Node.js , Express**, and **MongoDb,MySQL**, working towards becoming a full-stack developer.
 I’m looking to collaborate on innovative projects in the web development and tech industry.
 I have also experience in **C++,java,DSA(in C++) and also python** .
 
