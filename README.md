@@ -13,8 +13,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
- # Hi 👋, I'm Muhammad Furqan</h1>
-*Computer Science Student | Full-Stack (MERN) Developer | AI & Python Enthusiast*
+ h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
+<h3 align="center"><i>Computer Science Student | Full-Stack (MERN) Developer | AI & Python Enthusiast</i></h3>
+
 
 <!-- Short Intro -->
 <p align="center">
