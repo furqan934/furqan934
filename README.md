@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=furqan934&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=furqan934&theme=tokyonight" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=furqan934&theme=tokyonight&v=1" alt="GitHub Streak" />
+
 </p>
 
 ---
