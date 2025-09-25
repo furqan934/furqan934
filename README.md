@@ -18,6 +18,15 @@ Here are some ideas to get you started:
 
 ---
 
+<!-- Short Intro -->
+<p align="center">
+I’m a dedicated 4th semester Computer Science student at UET Peshawar, passionate about building modern web applications and exploring artificial intelligence.  
+With hands-on experience in the MERN stack and Python, I strive to solve real-world problems through technology.  
+Always eager to learn, grow, and collaborate on exciting projects. 🚀  
+</p>
+
+---
+
 <!-- About Me -->
 ## 🚀 About Me
 - 🎓 I’m a **4th semester Computer Science student** at **UET Peshawar**  
