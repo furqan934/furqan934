@@ -118,69 +118,94 @@ Currently, I am strengthening my skills in **Machine Learning, Deep Learning, Py
 
 ---
 
-## 🚀 Featured Projects
+---
 
-### 🎓 Student Performance AI
+## 🎓 Education
 
-Machine learning application for predicting student academic performance using a neural network.
+**Bachelor of Science in Computer Science**  
+University of Engineering and Technology (UET), Peshawar
 
-**Tech:** `Python` `PyTorch` `Scikit-learn` `Pandas` `Streamlit` `Pytest` `GitHub Actions`
+**6th Semester | Expected Graduation: 2027**
 
-**Workflow:**
+Relevant areas:
 
-`Data → EDA → Preprocessing → Model → Training → Evaluation → Inference → Application → Testing`
-
-🔗 [View Repository](https://github.com/furqan934/student-performance-ai)
+`Data Structures` `OOP` `Databases` `Software Engineering` `Computer Networks` `Artificial Intelligence` `Data Science` `Machine Learning`
 
 ---
 
-### 🤖 AI Engineering Bootcamp
+## 🎯 Goals
 
-My structured learning repository for developing practical **AI Engineering** skills.
-
-Covers:
-
-`Python → Machine Learning → Deep Learning → PyTorch → Computer Vision → Generative AI → LLMs → RAG → AI Agents → APIs → Deployment`
-
-🔗 [View Repository](https://github.com/furqan934/AI-Engineering-Bootcamp)
-
----
-
-### 🚀 CareerPilot AI
-
-AI-powered career assistance platform designed to help users analyze resumes, identify skills, and improve career preparation.
-
-**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `FastAPI` `Machine Learning`
+- Become a strong **AI Engineer**
+- Build production-oriented **AI/ML systems**
+- Strengthen **Python and Deep Learning**
+- Develop expertise in **LLMs, RAG and AI Agents**
+- Build AI-powered Full-Stack applications
+- Explore **Applied AI Research**
+- Gain professional experience through **internships and real-world projects**
+- Contribute to meaningful **open-source and collaborative projects**
 
 ---
 
-## 🔬 How I Build
+## 📊 GitHub Statistics
 
-I focus on understanding the complete engineering lifecycle rather than building isolated notebooks.
+<p align="center">
 
-```text
-Problem
-   ↓
-Research
-   ↓
-Data
-   ↓
-EDA
-   ↓
-Preprocessing
-   ↓
-Model
-   ↓
-Training
-   ↓
-Evaluation
-   ↓
-Inference
-   ↓
-API
-   ↓
-Application
-   ↓
-Testing
-   ↓
-Deployment
+<img src="https://github-readme-stats.vercel.app/api?username=furqan934&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=furqan934&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=furqan934&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=furqan934&theme=tokyo-night&hide_border=true" alt="Contribution Graph"/>
+
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/furqan934/furqan934/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
+
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/muhammad-furqan-570997320/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:furqanmf234@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/furqan934">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### 🚀 Learning • Building • Improving
+
+</div>
