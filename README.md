@@ -188,7 +188,7 @@ Relevant areas:
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/muhammad-furqan-570997320/">
+<a href="https://www.linkedin.com/in/muhammadfurqan-dev">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
