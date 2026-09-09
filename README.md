@@ -1,109 +1,186 @@
-<!-- Profile Header -->
-<!--
-**furqan934/furqan934** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
 
-Here are some ideas to get you started:
+<h3 align="center">
+Computer Science Student | AI/ML Practitioner | Full-Stack Developer
+</h3>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
- <h1 align="center">Hi 👋, I'm Muhammad Furqan</h1>
-<h3 align="center"><i>Computer Science Student | Full-Stack (MERN) Developer | AI & Python Enthusiast</i></h3>
-
-
-<!-- Short Intro -->
 <p align="center">
-I’m a dedicated 4th semester Computer Science student at UET Peshawar, passionate about building modern web applications and exploring artificial intelligence.  
-With hands-on experience in the MERN stack and Python, I strive to solve real-world problems through technology.  
-Always eager to learn, grow, and collaborate on exciting projects. 🚀  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=00A8FF&center=true&vCenter=true&width=800&lines=AI+%26+Machine+Learning;Python+%7C+PyTorch+%7C+Scikit-learn;AI+Engineering+%26+Full-Stack+Development;Building+Practical+AI-Powered+Applications" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/furqan934">
+    <img src="https://komarev.com/ghpvc/?username=furqan934&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
 </p>
 
 ---
 
-<!-- About Me -->
-## 🚀 About Me
-- 🎓 I’m a **4th semester Computer Science student** at **UET Peshawar**  
-- 💻 Skilled in **HTML5, CSS3, Bootstrap, Tailwind CSS, JavaScript, Vue.js, React.js**  
-- ⚡ Currently working on **MERN Stack projects (MongoDB, Express, React, Node.js)**  
-- 🤖 Exploring **Python libraries (NumPy, Pandas, Matplotlib, Scikit-learn, TensorFlow)** and **AI concepts**  
-- 💡 Passionate about **Full-Stack Development, AI, and real-world problem solving**  
-- 🤝 Open to collaborating on **innovative tech projects**  
+## 👨‍💻 About Me
+
+I'm **Muhammad Furqan**, a **6th-semester Computer Science student at UET Peshawar**, focused on **Artificial Intelligence, Machine Learning, AI Engineering, Python, and Full-Stack Development**.
+
+I enjoy building practical software systems that combine **machine learning models, APIs, and modern web applications** to solve real-world problems.
+
+Currently, I am strengthening my skills in **Machine Learning, Deep Learning, PyTorch, Python Engineering, AI APIs, and production-oriented AI development**.
+
+- 🎓 BS Computer Science — **UET Peshawar**
+- 🤖 Focused on **AI, Machine Learning & AI Engineering**
+- 🐍 Building with **Python**
+- 🔥 Learning and implementing **Deep Learning with PyTorch**
+- 📊 Experienced with **Data Analysis & Machine Learning workflows**
+- 🌐 Full-Stack development with **React, Next.js, Node.js & Express**
+- ⚡ Building AI applications with **FastAPI**
+- 🚀 Interested in **Generative AI, LLMs, RAG & AI Agents**
+- 💼 Open to **internships, collaborations, research, and real-world projects**
 
 ---
 
-<!-- Tech Stack -->
+## 🧠 Current Focus
+
+### Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- Neural Networks
+- Computer Vision
+- Model Training & Evaluation
+- Feature Engineering
+- Model Inference
+- Generative AI
+- LLM Applications
+- RAG & AI Agents
+
+### AI Engineering
+- Python Engineering
+- ML Project Architecture
+- Data Pipelines
+- Model Serving
+- FastAPI
+- REST APIs
+- Testing
+- CI/CD
+- Docker
+- Deployment
+
+### Full-Stack Development
+- React
+- Next.js
+- Node.js
+- Express.js
+- REST APIs
+- MongoDB
+- PostgreSQL
+- AI-powered Web Applications
+
+---
+
 ## 🛠️ Tech Stack
 
-### 🌐 Frontend
+### Programming
 <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
 </p>
 
-### ⚙️ Backend
+### AI / Machine Learning
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 </p>
 
-### 🤖 AI & Python
+### Web Development
 <p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
-### 🔧 Other Skills
+### Databases & Tools
 <p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 </p>
 
 ---
 
-<!-- GitHub Stats -->
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=furqan934&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
- <img src="https://streak-stats.demolab.com?user=furqan934&theme=tokyonight&v=1" alt="GitHub Streak" />
+## 🚀 Featured Projects
 
-</p>
+### 🎓 Student Performance AI
 
----
+Machine learning application for predicting student academic performance using a neural network.
 
-<!-- Connect -->
-## 🌐 Connect with Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/muhammad-furqan-570997320/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="furqanmf234@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://github.com/furqan934" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-</p>
+**Tech:** `Python` `PyTorch` `Scikit-learn` `Pandas` `Streamlit` `Pytest` `GitHub Actions`
+
+**Workflow:**
+
+`Data → EDA → Preprocessing → Model → Training → Evaluation → Inference → Application → Testing`
+
+🔗 [View Repository](https://github.com/furqan934/student-performance-ai)
 
 ---
 
-## Profile Views
+### 🤖 AI Engineering Bootcamp
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=furqan934&color=blue" alt="Profile Views" />
-</p>
+My structured learning repository for developing practical **AI Engineering** skills.
+
+Covers:
+
+`Python → Machine Learning → Deep Learning → PyTorch → Computer Vision → Generative AI → LLMs → RAG → AI Agents → APIs → Deployment`
+
+🔗 [View Repository](https://github.com/furqan934/AI-Engineering-Bootcamp)
+
+---
+
+### 🚀 CareerPilot AI
+
+AI-powered career assistance platform designed to help users analyze resumes, identify skills, and improve career preparation.
+
+**Tech:** `Next.js` `TypeScript` `Tailwind CSS` `Supabase` `FastAPI` `Machine Learning`
+
+---
+
+## 🔬 How I Build
+
+I focus on understanding the complete engineering lifecycle rather than building isolated notebooks.
+
+```text
+Problem
+   ↓
+Research
+   ↓
+Data
+   ↓
+EDA
+   ↓
+Preprocessing
+   ↓
+Model
+   ↓
+Training
+   ↓
+Evaluation
+   ↓
+Inference
+   ↓
+API
+   ↓
+Application
+   ↓
+Testing
+   ↓
+Deployment
